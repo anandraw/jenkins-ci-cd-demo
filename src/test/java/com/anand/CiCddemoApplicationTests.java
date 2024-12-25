@@ -10,6 +10,7 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 @SpringBootTest
 class CiCddemoApplicationTests {
 	
+
 	@Autowired
 	private MockMvc mockMvc;
 
@@ -17,6 +18,7 @@ class CiCddemoApplicationTests {
 	void contextLoads() {
 	}
 	
+	@Test
 	public void testGreetinfenpoint() throws Exception{
 		String name = "Anand Rawool";
 		
