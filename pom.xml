@@ -11,7 +11,7 @@
 	<groupId>com.anand</groupId>
 	<artifactId>ci-cddemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ci-cddemo</name><packaging>war</packaging>
+	<name>ci-cddemo</name><packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
